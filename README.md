@@ -3,7 +3,7 @@ A place for the staff of the Nomad Nation server to work on projects, Please upl
 
 # Todo
   
-  Recourse pack
+  Resource pack
   - Add music files [need to be .ogg format] [ ]
   - Add the music directories to sounds.json [ ]
   - Change sound tag from music to master [ ] 
