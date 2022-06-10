@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/raw_copper"
+  },
+    "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "item/custom/hologram/hologram"},
+	{"predicate": {"custom_model_data": 2}, "model": "item/custom/coffee/coffee"},
+	{"predicate": {"custom_model_data": 3}, "model": "item/custom/headset/headset"},
+	{"predicate": {"custom_model_data": 4}, "model": "item/custom/horns/horns"},
+	{"predicate": {"custom_model_data": 5}, "model": "item/custom/madhatter/madhatter"},
+	{"predicate": {"custom_model_data": 6}, "model": "item/custom/tallhat/tallhat"},
+	{"predicate": {"custom_model_data": 7}, "model": "item/custom/wine/wine"},
+	{"predicate": {"custom_model_data": 8}, "model": "item/custom/glasses/glasses"}
+
+    ]
+}
