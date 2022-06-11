@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:nether_wart"
+		},
+		"title": "More Stairs        ",
+		"description": ["",{"text":"Allows you to break down Nether Wart Blocks into 9 Nether Wart.","color":"gold"}],
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+    "parent": "nutil:vanilla_tweaks/unpackable_ice",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

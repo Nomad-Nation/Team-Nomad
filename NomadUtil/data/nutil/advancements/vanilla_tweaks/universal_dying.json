@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:red_concrete_powder"
+		},
+		"title": "More Stairs        ",
+		"description": ["",{"text":"Allows you to dye any dyeable block to another color, no matter what color it is (does not include Concrete).","color":"gold"}],
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+    "parent": "nutil:vanilla_tweaks/more_stairs",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

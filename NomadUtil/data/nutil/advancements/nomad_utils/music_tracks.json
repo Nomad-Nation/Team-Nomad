@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:music_disc_otherside"
+		},
+		"title": "Music Tracks      ",
+		"description": ["",{"text":"Adds custom music go the music hut at spawn to see list of music. Do","color":"gold"},{"text":" /trigger music_toggle","color":"yellow"},{"text":" to toggle the music playing on or off","color":"gold"},{"text":"\nGo to nomadnation.info for more details","color":"green"}],
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+    "parent": "nutil:nomad_utils/shop_message",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

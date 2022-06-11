@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:oak_stairs"
+		},
+		"title": "More Stairs     ",
+		"description": ["",{"text":"Creates 9 Stairs insead of 3.","color":"gold"}],
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+    "parent": "nutil:vanilla_tweaks/more_trapdoors",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

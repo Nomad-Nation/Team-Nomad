@@ -1,0 +1,19 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner:{Id:[I;-867627696,-574141461,-1134726710,-2021606062],Properties:{textures:[{Value:'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzUyOTBmZTUzNTg0MGE1MGU3NjI2ZGRjY2MwMTBiZGFhN2Q1MDBjNDM2YWNkMDA4MmU1NGMyOTY1YjFmMTc5OCJ9fX0='}]}}}"
+		},
+		"title": "Datapacks",
+		"frame": "challenge",
+		"description": ["",{"text":"All Loaded Datapacks\n","color":"gold"}],
+		"background": "minecraft:textures/block/black_concrete.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:white_wool"
+		},
+		"title": "More Stairs        ",
+		"description": ["",{"text":"Allows you to break down Wool into 4 String.","color":"gold"}],
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+    "parent": "nutil:vanilla_tweaks/unpackable_nether_wart",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

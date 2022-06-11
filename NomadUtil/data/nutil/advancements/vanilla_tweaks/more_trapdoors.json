@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:oak_trapdoor"
+		},
+		"title": "More Trapdoors",
+		"description": ["",{"text":"Creates 9 Trapdoors insead of 3.","color":"gold"}],
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+    "parent": "nutil:vanilla_tweaks",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
