@@ -14,4 +14,4 @@ Please also include a zip files within the datapack when complete for ease of do
   - Make new datapack to shuffle music and add trigger command for individuals to turn on or off [ ]
 
   More Villager Trades
-  - Create a datapack that speeds the villager trading within a block range of a armor stand with a tag [ ]
+  - Create a datapack that speeds the villager trading within a block range of a armor stand with a tag [X]
