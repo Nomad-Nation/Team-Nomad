@@ -7,7 +7,7 @@ Please also include a zip files within the datapack when complete for ease of do
   Resource pack
   - Add music files [need to be .ogg format] [ ]
   - Add the music directories to sounds.json [ ]
-  - Change sound tag from music to master [ ] 
+  - Change sound tag from music to master [X] 
   
   Music UI
   - Maybe depicted depending on staff vote. [X]
