@@ -10,7 +10,7 @@ Please also include a zip files within the datapack when complete for ease of do
   - Change sound tag from music to master [ ] 
   
   Music UI
-  - Maybe depicted depending on staff vote. [ ]
+  - Maybe depicted depending on staff vote. [X]
   - Make new datapack to shuffle music and add trigger command for individuals to turn on or off [ ]
 
   More Villager Trades
