@@ -1,5 +1,6 @@
 # Team-Nomad
 A place for the staff of the Nomad Nation server to work on projects, Please upload datpacks individual as combining makes things break!
+Please also include a zip files within the datapack when complete for ease of downloading
 
 # Todo
   
