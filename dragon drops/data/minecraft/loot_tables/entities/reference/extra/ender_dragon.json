@@ -1,0 +1,19 @@
+{
+  "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:wooden_axe",
+                    "weight": 3
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:elytra",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}
