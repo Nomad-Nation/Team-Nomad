@@ -4,7 +4,7 @@
 			"item": "minecraft:oak_sign"
 		},
 		"title": "Shop Message   ",
-		"description": ["",{"text":"Let everyone know your the owner of your shop.\nPlace a named armor stand in your shop and do","color":"gold"},{"text":" /trigger sm_hide","color":"yellow"},{"text":" \nthis is hide the armor stand and display","color":"gold"},{"text":" Owner: YOURNAME","color":"green"},{"text":" do","color":"gold"},{"text":" /trigger sm_show","color":"yellow"},{"text":" to reveal the armor stand for breaking and adjusting","color":"gold"}],
+		"description": ["",{"text":"Let everyone know your the owner of your shop.\nPlace a named armor stand in your shop and do","color":"gold"},{"text":" /shop_hide","color":"yellow"},{"text":" \nthis is hide the armor stand and display","color":"gold"},{"text":" Owner: YOURNAME","color":"green"},{"text":" do","color":"gold"},{"text":" /shop_show","color":"yellow"},{"text":" to reveal the armor stand for breaking and adjusting","color":"gold"}],
 		"show_toast": false,
 		"announce_to_chat": false
 	},
