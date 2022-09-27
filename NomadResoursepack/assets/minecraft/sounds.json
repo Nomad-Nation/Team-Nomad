@@ -1,0 +1,2 @@
+{ "custom.travel": { "category": "music", "sounds": [ "custom/travel" ] },
+"custom.gypsy": { "category": "music", "sounds": [ "custom/gypsy" ] } }
